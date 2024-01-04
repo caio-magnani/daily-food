@@ -1,0 +1,25 @@
+{
+  "name": "daily-food",
+  "version": "1.0.0",
+  "description": " Daily Food é um aplicativo que tem como objetivo ajudar as pessoas escolherem alimentos mais saudáveis de uma forma simples e acessível.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caio-magnani/daily-food.git"
+  },
+  "author": "Caio Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caio-magnani/daily-food/issues"
+  },
+  "homepage": "https://github.com/caio-magnani/daily-food#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
